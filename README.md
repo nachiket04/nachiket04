@@ -6,5 +6,5 @@
 - 👀 I’m interested in Coding, Learning, Reading.
 - 📫 How to reach me: khadagenachi4@gmail.com
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachiket04)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachiket04&show_icons=true&theme=radical)
