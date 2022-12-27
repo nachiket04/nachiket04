@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Backend+Developer;I+am+a+Java+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Backend+Developer;I+am+a+Full+Stack+Java+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Nachiket Khadage.
 - 🌱 I’m currently learning Full stack development
